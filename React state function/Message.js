@@ -20,5 +20,5 @@ class Message extend Component{
     )}
 }
 State:The state is a built in React object that is used to contain 
-data or information about the componenet.A component's state can cagange over time;
+data or information about the componenet.A component's state can change over time;
 whenever it changes,the component re-renders
